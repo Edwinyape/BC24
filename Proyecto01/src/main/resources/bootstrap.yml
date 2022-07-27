@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Proyecto01
+  cloud:
+    config:
+      uri: http://localhost:8081
+      username: nttdata
+      password: nttdata
+
+
